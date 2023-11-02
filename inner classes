@@ -1,0 +1,2 @@
+.inner class can only access static variables and public members  of outer class.
+.Outer class can only class public elements of inner class.
